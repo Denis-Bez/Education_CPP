@@ -2,7 +2,7 @@
 
 using namespace std;
 
-/* Также вариант (https://www.youtube.com/watch?v=rh9U1duQR8s&list=WL&index=29&t=13s)  с использованием приватного модификатора доступа
+/* Такж вариант (https://www.youtube.com/watch?v=rh9U1duQR8s&list=WL&index=29&t=13s)  с использованием приватного модификатора доступа
     и использованием функций get и set */
 class User {
 public:
